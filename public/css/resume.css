@@ -1,0 +1,39 @@
+.resume_container table tr{
+    border:2px solid;
+    border-color: chartreuse;
+    text-align:center;
+    border-collapse:collapse;
+}
+.resume_container table{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:2px;
+}
+.col1 th{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:2px;
+    width: 1000px;
+    text-align: center;
+}
+.col2 th{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:2px auto;
+    width: 230px;
+    text-align: center;
+}
+.col2_td_size{
+    width: 145px;
+}
+.col3 th{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:2px auto;
+    text-align: center;
+}
+.head_image_fix{
+    padding: 0%;
+    height: 250px;
+    width: 250px;
+}

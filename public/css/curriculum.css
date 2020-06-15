@@ -1,0 +1,27 @@
+.curriculum_container table { 
+    border:2px solid;
+    font-size:16px;
+    text-align:center;
+    border-collapse:collapse;
+  }
+.curriculum_container h1{
+    font-size:100px;
+    border-collapse:collapse;
+}
+.curriculum_container table tr{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:20px;
+}
+.curriculum_container table tr td{
+    border:2px solid;
+    border-color: chartreuse;
+    padding:3px;
+}
+.curriculum_container table tr th{ 
+    border:4px solid;
+    border-color: chartreuse;
+    text-align: center;
+    padding:20px;
+    width: 200px;
+  } 
